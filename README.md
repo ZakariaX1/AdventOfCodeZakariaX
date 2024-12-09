@@ -7,3 +7,6 @@
 Day 1: Historian Hysteria\
 [Part 1](/2024/Day1/Historian_Hysteria.py)\
 [Part 2](/2024/Day1/Historian_Hysteria_part2.py)\
+
+Day 2:
+> WIP
